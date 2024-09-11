@@ -1,0 +1,32 @@
+# Ignore the virtual environment folder
+/venv/
+
+# Ignore the archive folder (where old or unused files are stored)
+/archive/
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore environment variable files (if you have any)
+.env
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+
+# Ignore Python egg metadata
+*.egg-info/
