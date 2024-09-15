@@ -9,4 +9,5 @@ idna==3.8
 multidict==6.0.5
 py4j==0.10.9.7
 pyspark==3.5.2
+python-dotenv==1.0.1
 yarl==1.10.0
